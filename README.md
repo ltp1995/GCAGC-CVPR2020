@@ -1,2 +1,2 @@
 # GCAGC-CVPR2020
-* Start a line with a star
+* Code will release soon
