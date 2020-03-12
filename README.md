@@ -1,2 +1,2 @@
 # GCAGC-CVPR2020
-cosal 
+* Start a line with a star
