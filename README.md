@@ -3,5 +3,5 @@
 ## Pipeline
 ![pipeline](https://github.com/ltp1995/GCAGC-CVPR2020/blob/master/maps/pipeline.png)
 ## Cosal results
-Baiduyun: https://pan.baidu.com/s/19hIlViLbby-a7vQw17ZTVw Fetchcode: f4p3
+Baiduyun: https://pan.baidu.com/s/1x4t9hp1JIKKirI9s8Vsy1w Fetchcode: aqaw
 
