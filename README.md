@@ -1,8 +1,10 @@
 # GCAGC-CVPR2020
 ## Testing code
 * python test.py
+## Pretrained models
+Baiduyun link: https://pan.baidu.com/s/1C4pX_akexLHe7fTWtWHxlw Fetchcode: isrw 
 ## Pipeline
 ![pipeline](https://github.com/ltp1995/GCAGC-CVPR2020/blob/master/maps/pipeline.png)
 ## Cosal results
-Baiduyun: https://pan.baidu.com/s/1x4t9hp1JIKKirI9s8Vsy1w Fetchcode: aqaw
+Baiduyun link: https://pan.baidu.com/s/1x4t9hp1JIKKirI9s8Vsy1w Fetchcode: aqaw
 
