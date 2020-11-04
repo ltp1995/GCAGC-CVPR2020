@@ -1,5 +1,4 @@
-# GCAGC-CVPR2020
-# Adaptive Graph Convolutional Network with Attention Graph Clustering for Co-saliency Detection
+# Adaptive Graph Convolutional Network with Attention Graph Clustering for Co-saliency Detection (GCAGC-CVPR2020)
 ## Testing code
 * python test.py
 ## Pretrained models (HRNET version)
