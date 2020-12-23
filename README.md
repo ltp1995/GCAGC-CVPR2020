@@ -2,7 +2,7 @@
 ## Testing code
 * python test.py
 ## Pretrained models (HRNET version)
-* Baidu Cloud: https://pan.baidu.com/s/1C4pX_akexLHe7fTWtWHxlw Fetchcode: isrw 
+* Baidu Cloud(https://pan.baidu.com/s/1C4pX_akexLHe7fTWtWHxlw) Fetchcode: isrw 
 ## Pipeline
 ![pipeline](https://github.com/ltp1995/GCAGC-CVPR2020/blob/master/maps/pipeline.png)
 ## Training Dataset (COCO-SEG, 78 categories, 200K images) && Cosal results
