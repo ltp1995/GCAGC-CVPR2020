@@ -11,6 +11,9 @@
 ## Training code
 * TO DO!
 
+## Instance co-segmentation and co-saliency (extended paper)
+* Here is our extended transaction paper published in TMM https://ieeexplore.ieee.org/abstract/document/9337219/
+
 ## Citation
 If you use this code, please cite our paper:
 ```
@@ -20,6 +23,13 @@ If you use this code, please cite our paper:
   booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
   pages={9050--9059},
   year={2020}
+}
+@article{li2021image,
+  title={Image Co-saliency Detection and Instance Co-segmentation using Attention Graph Clustering based Graph Convolutional Network},
+  author={Li, Tengpeng and Zhang, Kaihua and Shen, Shiwen and Liu, Bo and Liu, Qingshan and Li, Zhu},
+  journal={IEEE Transactions on Multimedia},
+  year={2021},
+  publisher={IEEE}
 }
 ```
 
