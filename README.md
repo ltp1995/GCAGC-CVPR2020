@@ -11,8 +11,8 @@
 ## Training code
 * TO DO!
 
-## Instance co-segmentation and co-saliency (extended paper)
-* Here is our extended transaction paper published in TMM https://ieeexplore.ieee.org/abstract/document/9337219/
+## Instance co-segmentation and co-saliency (published in TMM)
+* Here is our extended transaction paper https://ieeexplore.ieee.org/abstract/document/9337219/
 
 ## Citation
 If you use this code, please cite our paper:
