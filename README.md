@@ -8,8 +8,6 @@
 ## Training Dataset (COCO-SEG, 78 categories, 200K images) && Cosal results
 * [Baidu Cloud](https://pan.baidu.com/s/1el5csohupzbLXzLZLSHO6w) Fetchcode: 7kwy
 * [Baidu Cloud](https://pan.baidu.com/s/1x4t9hp1JIKKirI9s8Vsy1w) Fetchcode: aqaw && [Google Cloud](https://drive.google.com/file/d/1rStw0BybbGjARLfEEwcGuxuDv0oQoBFY/view?usp=sharing)
-## Training code
-* TO DO!
 
 ## Instance co-segmentation and co-saliency (published in TMM)
 * Here is our extended transaction paper https://ieeexplore.ieee.org/abstract/document/9337219/
@@ -17,7 +15,8 @@
   [Baidu Cloud](https://pan.baidu.com/s/1Y0rTjkYnVfwfQhNEE3SQOQ) Fetchcodes: 0ytz 
 * Instance evaluation codes (Matlab):
   [Baidu Cloud](https://pan.baidu.com/s/1QiC5GFcJ8YmeA7gb7y57sQ) Fetchcodes: v1up 
-  Google Cloud: [link](https://drive.google.com/file/d/1rStw0BybbGjARLfEEwcGuxuDv0oQoBFY/view?usp=sharing)
+* Google Cloud:
+  [link](https://drive.google.com/file/d/1rStw0BybbGjARLfEEwcGuxuDv0oQoBFY/view?usp=sharing)
 
 ## Citation
 If you use this code, please cite our paper:
