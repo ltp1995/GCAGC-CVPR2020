@@ -4,7 +4,7 @@
 ## Testing code
 * python test.py
 ## Pretrained models (HRNET version)
-* [Baidu Cloud](https://pan.baidu.com/s/1C4pX_akexLHe7fTWtWHxlw) Fetchcode: isrw && [Google Cloud](https://drive.google.com/file/d/1rStw0BybbGjARLfEEwcGuxuDv0oQoBFY/view?usp=sharing)
+* [Baidu Cloud](https://pan.baidu.com/s/1C4pX_akexLHe7fTWtWHxlw) Fetchcode: isrw && [Google Cloud](https://drive.google.com/file/d/1LvSTdWyrWhO4ge1-Cj5ETE2SrhvebIiR/view?usp=sharing)
 ## Training Dataset (COCO-SEG, 78 categories, 200K images) && Cosal results
 * [Baidu Cloud](https://pan.baidu.com/s/1_8wDB52k-FUqUZHTMCZ2vA) Fetchcode: rbbj 
 * [Baidu Cloud](https://pan.baidu.com/s/1x4t9hp1JIKKirI9s8Vsy1w) Fetchcode: aqaw && [Google Cloud](https://drive.google.com/file/d/1rStw0BybbGjARLfEEwcGuxuDv0oQoBFY/view?usp=sharing)
@@ -16,7 +16,7 @@
 * Instance evaluation codes (Matlab):
   [Baidu Cloud](https://pan.baidu.com/s/1QiC5GFcJ8YmeA7gb7y57sQ) Fetchcodes: v1up 
 * Google Cloud:
-  [link](https://drive.google.com/file/d/1rStw0BybbGjARLfEEwcGuxuDv0oQoBFY/view?usp=sharing)
+  [link](https://drive.google.com/file/d/1Fn2zRC5agG_oTo1kz1_nU_aZGLgHGC23/view?usp=sharing)
 
 ## Citation
 If you use this code, please cite our paper:
